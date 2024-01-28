@@ -1,0 +1,19 @@
+{
+  "name": "node-secrets-assignment-hardcoded-secret",
+  "version": "1.0.0",
+  "description": "For this part create a repository and the files you need to run your simple node app. In your app make sure to specify application secrets to make your code function. You can make any of the variables a secret",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephdrivera/Node-Secrets-Assignment-Hardcoded-Secret.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephdrivera/Node-Secrets-Assignment-Hardcoded-Secret/issues"
+  },
+  "homepage": "https://github.com/josephdrivera/Node-Secrets-Assignment-Hardcoded-Secret#readme"
+}
